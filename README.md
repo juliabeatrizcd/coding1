@@ -16,3 +16,4 @@ Variações:
 var: usado de forma mais tradicional, mas com escopo global ou de função, o que pode levar a problemas em códigos mais complexos;
 let: uma alternativa mais moderna, com escopo de bloco, oferecendo maior controle e segurança no uso de variáveis;
 const: para declarar valores constantes, que não podem ser alterados após a atribuição.
+tem menu de contexto
