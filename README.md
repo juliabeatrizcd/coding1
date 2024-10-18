@@ -1,6 +1,6 @@
 # coding1
 
-RESUMO DA AULA 1 (GitHub):
+#RESUMO DA AULA 1 (GitHub):
 
 Na última aula, a professora Tereza Oliveira apresentou o processo de criação de uma conta no GitHub. Ela explicou a importância da plataforma para o desenvolvimento colaborativo de software e ajudou os alunos na criação de um repositório e na personalização de seus perfis, mostrando como um perfil bem elaborado pode ser um portfólio valioso para futuros empregadores. Além de ensinar sobre GitHub, a professora Tereza também introduziu o conceito de variáveis em JavaScript, explicando os tipos principais, como var, let e const, e demonstrando suas diferenças e aplicações. 
 Entre as principais funcionalidades do GitHub, estão:
