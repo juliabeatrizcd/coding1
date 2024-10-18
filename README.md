@@ -24,7 +24,7 @@ Variações:
 • const: para declarar valores constantes, que não podem ser alterados após a atribuição.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-RESUMO DA AULA 2 (Code Pen):
+#RESUMO DA AULA 2 (Code Pen):
 
 A professora Tereza passou uma atividade (atividade.if/else). Essa atividade era para praticarmos o uso de estruturas condicionais em JavaScript, especificamente o if/else. Esse código utiliza a função prompt() para solicitar que o usuário escolha uma opção numérica para descrever o tipo de dor que está sentindo. As opções são:
 
@@ -43,7 +43,7 @@ O código segue a seguinte lógica:
 Este é um exemplo simples de estrutura condicional if-else que toma decisões com base no valor da variável consulta, utilizando operadores de igualdade (==) e lógicos (||).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-RESUMO DA AULA 3 (Code Pen):
+#RESUMO DA AULA 3 (Code Pen):
 
 A professora Tereza passou uma atividade (atividade.switchcase) para trabalharmos com a estrutura de controle switch em JavaScript, onde implementamos um pequeno programa que recebe o nome do usuário e o turno de treino desejado (Manhã, Tarde ou Noite) através da função prompt(). Com base na escolha do turno, o programa utiliza a estrutura switch para verificar o valor inserido e exibir uma mensagem personalizada no console com o nome do usuário e o turno selecionado. Se o valor não corresponder a nenhuma das opções, uma mensagem padrão informa que o cadastro não pôde ser concluído.
 
@@ -60,7 +60,7 @@ A professora Tereza passou uma atividade (atividade.switchcase) para trabalharmo
 Esse processo nos ajuda a entender como manipular entradas de usuários e reagir a diferentes opções com o switch, que é mais eficiente quando temos várias condições específicas a verificar.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- RESUMO DA AULA 4 (Code Pen):
+ #RESUMO DA AULA 4 (Code Pen):
  
  Na última aula (16/10/24), a professora Tereza nos ensinou a manipular arrays em JavaScript. O exercício envolvia a consulta e exibição de elementos dentro de um array. A seguir, um resumo do código abordado:
 
